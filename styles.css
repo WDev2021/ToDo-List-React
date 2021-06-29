@@ -29,6 +29,8 @@ code {
   padding: 5px;
   max-width: 400px;
   margin: 10px 0;
+  /* list-style-type: disc; */
+
 }
 
 .todo-list:hover {
